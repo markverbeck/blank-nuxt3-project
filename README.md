@@ -1,0 +1,1 @@
+# blank-nuxt3-project
